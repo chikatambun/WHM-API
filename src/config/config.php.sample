@@ -1,0 +1,15 @@
+<?php 
+
+return array(
+
+'whm_username' => 'USERNAME',
+
+'whm_hash' => 'WHM HASH',
+
+'whm_plan', 'WHM PLAN',
+
+'whm_cpanel_url' => 'CPANEL URL',
+
+'whm_domain_url' => '.example.com'
+
+);
